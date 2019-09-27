@@ -1,0 +1,4 @@
+Hi I'm process 12809 and my parent is 2486
+Max=1000
+Min=1
+Sum=500500

@@ -1,0 +1,11 @@
+Hi I'm process 4815 and my parent is 1805
+Hi I'm process 4817 and my parent is 4815
+Hi I'm process 4816 and my parent is 4815
+Hi I'm process 4818 and my parent is 4816
+Hi I'm process 4816 and my parent is 4815
+Hi I'm process 4816 and my parent is 4815
+Hi I'm process 4815 and my parent is 1805
+Hi I'm process 4815 and my parent is 1805
+Max=100
+Min=1
+Sum=5050

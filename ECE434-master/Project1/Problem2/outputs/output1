@@ -1,0 +1,12 @@
+Andys-Macbook:Desktop Andy$ ./Problem2PartC problem2systems.txt 
+Hi I'm process 8089 and my parent is 7664
+Hi I'm process 8090 and my parent is 8089
+Hi I'm process 8089 and my parent is 7664
+Hi I'm process 8091 and my parent is 8089
+Hi I'm process 8090 and my parent is 8089
+Hi I'm process 8092 and my parent is 8090
+Hi I'm process 8092 and my parent is 8090
+Max=30
+Min=10
+Sum=130
+Andys-Macbook:Desktop Andy$

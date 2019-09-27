@@ -1,0 +1,13 @@
+Hi I'm process 4774 and my parent is 1805
+Hi I'm process 4776 and my parent is 4774
+Hi I'm process 4775 and my parent is 4774
+Hi I'm process 4777 and my parent is 4775
+Hi I'm process 4775 and my parent is 4774
+Hi I'm process 4775 and my parent is 4774
+Hi I'm process 4774 and my parent is 1805
+Hi I'm process 4774 and my parent is 1805
+Max=100
+Min=1
+Sum=5050
+Terminated processes=0
+Live processes=0

@@ -1,0 +1,14 @@
+Hi I'm process 17095 and my parent is 17094
+Hi I'm process 17094 and my parent is 17093
+Hi I'm process 17093 and my parent is 17092
+Hi I'm process 17092 and my parent is 17091
+Hi I'm process 17091 and my parent is 17090
+Hi I'm process 17090 and my parent is 17089
+Hi I'm process 17089 and my parent is 17088
+Hi I'm process 17088 and my parent is 17087
+Hi I'm process 17087 and my parent is 17086
+Hi I'm process 17086 and my parent is 17085
+Hi I'm process 17085 and my parent is 2486
+Max=10
+Min=1
+Sum=55
